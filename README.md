@@ -22,8 +22,7 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Ahmed-Arslan&style=flat&color=blue&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed--Arslan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-arslan) 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-grey?style=flat&logo=telegram)](https://t.me/ahmed_arslan) <br>
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-grey?style=flat&logo=telegram)](https://t.me/) <br>
 </div>
 
 <hr></hr>
@@ -49,6 +48,7 @@ class Developer:
     def __init__(self):
         self.name = "Ahmed Arslan"
         self.role = "Media Ingest Specialist & Developer"
+        self.location = "Istanbul, Turkey"
         self.specialties = ["Media Workflows", "Automation", "Metadata Extraction"]
         self.tools = ["Python", "FFmpeg", "n8n", "Docker"]
 
