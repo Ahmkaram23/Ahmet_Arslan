@@ -41,19 +41,3 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-```python
-# My Professional Profile in Code
-
-class Developer:
-    def __init__(self):
-        self.name = "Ahmed Arslan"
-        self.role = "Media Ingest Specialist & Developer"
-        self.location = "Istanbul, Turkey"
-        self.specialties = ["Media Workflows", "Automation", "Metadata Extraction"]
-        self.tools = ["Python", "FFmpeg", "n8n", "Docker"]
-
-    def say_hi(self):
-        print(f"Hi, I'm {self.name}. I automate the impossible.")
-
-me = Developer()
-me.say_hi()
